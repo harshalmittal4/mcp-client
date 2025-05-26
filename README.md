@@ -33,7 +33,7 @@ The current client uses Azure OpenAI.
 ```
 from langchain_openai import AzureChatOpenAI
 ```
-Copy .env.example to .env, and replace the API keys for your LLM provider in .env file, and load it in the client.
+ Copy .env.example to .env, and replace the API keys for your LLM provider in .env file.
 
 3. Create and activate virtual environment, and install dependencies - ```pip install -r requirements.txt```
 
